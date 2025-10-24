@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Migración Teams 
 
 Scripts para la migración y gestión de telefonía en Microsoft Teams.
