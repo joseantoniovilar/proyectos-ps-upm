@@ -162,4 +162,4 @@ Disconnect-MicrosoftTeams -Confirm:$false
 
 # Detener medición y mostrar resultados
 $stopwatch.Stop()
-Write-Log "Tiempo total de ejecución: $($stopwatch.Elapsed.TotalSeconds) segundos" 'OK'git
+Write-Log "Tiempo total de ejecución: $($stopwatch.Elapsed.TotalSeconds) segundos" 'OK'

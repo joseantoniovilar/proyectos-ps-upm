@@ -14,8 +14,8 @@ cd 'C:\Users\user\Documents\Proyectos\Migracion teams telefonia\src'
 
 # Ejemplo de fichero CSV (delimitador ';', columnas upn;tel;iderloc):
 # upn;tel;iderloc
-# usuario1@dominio.com;600111222;12345
-# usuario2@dominio.com;600333444;67890
+# usuario1@dominio.com;+34600111222;r23r34mm34r2.m12345
+# usuario2@dominio.com;+34600333444;rrklrm678rrmkr90
 
 .NOTES
 Requiere Windows PowerShell 7 or later
@@ -166,4 +166,4 @@ Disconnect-MicrosoftTeams -Confirm:$false
 
 # Detener medición y mostrar resultados
 $stopwatch.Stop()
-Write-Log "Tiempo total de ejecución: $($stopwatch.Elapsed.TotalSeconds) segundos" 'OK'git
+Write-Log "Tiempo total de ejecución: $($stopwatch.Elapsed.TotalSeconds) segundos" 'OK'
