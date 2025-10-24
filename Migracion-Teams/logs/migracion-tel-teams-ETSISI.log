@@ -1,0 +1,992 @@
+2025-10-22 12:17:47 [OK] Conectado a Microsoft Teams correctamente.
+
+2025-10-22 12:17:49 [OK] Aplicada politica Normal-UPM a alfredo.valle@upm.es
+
+2025-10-22 12:17:52 [OK] Aplicada politica C3-Nacional-Móvil a alfredo.valle@upm.es
+
+2025-10-22 12:17:53 [OK] Aplicada politica VoiceRoutingPolicy1 a alfredo.valle@upm.es
+
+2025-10-22 12:17:55 [OK] Aplicada politica CP-1 a alfredo.valle@upm.es
+
+2025-10-22 12:17:57 [OK] Aplicada politica Normal-UPM a jaime.gonzalez.masip@upm.es
+
+2025-10-22 12:17:59 [OK] Aplicada politica C3-Nacional-Móvil a jaime.gonzalez.masip@upm.es
+
+2025-10-22 12:18:00 [OK] Aplicada politica VoiceRoutingPolicy1 a jaime.gonzalez.masip@upm.es
+
+2025-10-22 12:18:02 [OK] Aplicada politica CP-1 a jaime.gonzalez.masip@upm.es
+
+2025-10-22 12:18:03 [OK] Aplicada politica Normal-UPM a enrique.gutierrez.alvarez@upm.es
+
+2025-10-22 12:18:04 [OK] Aplicada politica C3-Nacional-Móvil a enrique.gutierrez.alvarez@upm.es
+
+2025-10-22 12:18:06 [OK] Aplicada politica VoiceRoutingPolicy1 a enrique.gutierrez.alvarez@upm.es
+
+2025-10-22 12:18:08 [OK] Aplicada politica CP-1 a enrique.gutierrez.alvarez@upm.es
+
+2025-10-22 12:18:09 [OK] Aplicada politica Normal-UPM a elvira.amador@upm.es
+
+2025-10-22 12:18:11 [OK] Aplicada politica C3-Nacional-Móvil a elvira.amador@upm.es
+
+2025-10-22 12:18:12 [OK] Aplicada politica VoiceRoutingPolicy1 a elvira.amador@upm.es
+
+2025-10-22 12:18:14 [OK] Aplicada politica CP-1 a elvira.amador@upm.es
+
+2025-10-22 12:18:15 [OK] Aplicada politica Normal-UPM a jc.hernandez.castro@upm.es
+
+2025-10-22 12:18:17 [OK] Aplicada politica C3-Nacional-Móvil a jc.hernandez.castro@upm.es
+
+2025-10-22 12:18:18 [OK] Aplicada politica VoiceRoutingPolicy1 a jc.hernandez.castro@upm.es
+
+2025-10-22 12:18:20 [OK] Aplicada politica CP-1 a jc.hernandez.castro@upm.es
+
+2025-10-22 12:18:21 [OK] Aplicada politica Normal-UPM a luis.fernandezm@upm.es
+
+2025-10-22 12:18:23 [OK] Aplicada politica C3-Nacional-Móvil a luis.fernandezm@upm.es
+
+2025-10-22 12:18:24 [OK] Aplicada politica VoiceRoutingPolicy1 a luis.fernandezm@upm.es
+
+2025-10-22 12:18:27 [OK] Aplicada politica CP-1 a luis.fernandezm@upm.es
+
+2025-10-22 12:18:29 [OK] Aplicada politica Normal-UPM a bernardo.tabuenca@upm.es
+
+2025-10-22 12:18:31 [OK] Aplicada politica C3-Nacional-Móvil a bernardo.tabuenca@upm.es
+
+2025-10-22 12:18:32 [OK] Aplicada politica VoiceRoutingPolicy1 a bernardo.tabuenca@upm.es
+
+2025-10-22 12:18:33 [OK] Aplicada politica CP-1 a bernardo.tabuenca@upm.es
+
+2025-10-22 12:18:35 [OK] Aplicada politica Normal-UPM a andreajesus.cimmino@upm.es
+
+2025-10-22 12:18:36 [OK] Aplicada politica C3-Nacional-Móvil a andreajesus.cimmino@upm.es
+
+2025-10-22 12:18:38 [OK] Aplicada politica VoiceRoutingPolicy1 a andreajesus.cimmino@upm.es
+
+2025-10-22 12:18:39 [OK] Aplicada politica CP-1 a andreajesus.cimmino@upm.es
+
+2025-10-22 12:18:40 [OK] Aplicada politica Normal-UPM a luis.redondo@upm.es
+
+2025-10-22 12:18:42 [OK] Aplicada politica C3-Nacional-Móvil a luis.redondo@upm.es
+
+2025-10-22 12:18:43 [OK] Aplicada politica VoiceRoutingPolicy1 a luis.redondo@upm.es
+
+2025-10-22 12:18:44 [OK] Aplicada politica CP-1 a luis.redondo@upm.es
+
+2025-10-22 12:18:46 [OK] Aplicada politica Normal-UPM a a.gordillo@upm.es
+
+2025-10-22 12:18:48 [OK] Aplicada politica C3-Nacional-Móvil a a.gordillo@upm.es
+
+2025-10-22 12:18:49 [OK] Aplicada politica VoiceRoutingPolicy1 a a.gordillo@upm.es
+
+2025-10-22 12:18:51 [OK] Aplicada politica CP-1 a a.gordillo@upm.es
+
+2025-10-22 12:18:53 [OK] Aplicada politica Normal-UPM a mariaangeles.mahillo@upm.es
+
+2025-10-22 12:18:54 [OK] Aplicada politica C3-Nacional-Móvil a mariaangeles.mahillo@upm.es
+
+2025-10-22 12:18:55 [OK] Aplicada politica VoiceRoutingPolicy1 a mariaangeles.mahillo@upm.es
+
+2025-10-22 12:18:57 [OK] Aplicada politica CP-1 a mariaangeles.mahillo@upm.es
+
+2025-10-22 12:18:58 [OK] Aplicada politica Normal-UPM a jorge.blasco.alis@upm.es
+
+2025-10-22 12:19:00 [OK] Aplicada politica C3-Nacional-Móvil a jorge.blasco.alis@upm.es
+
+2025-10-22 12:19:01 [OK] Aplicada politica VoiceRoutingPolicy1 a jorge.blasco.alis@upm.es
+
+2025-10-22 12:19:03 [OK] Aplicada politica CP-1 a jorge.blasco.alis@upm.es
+
+2025-10-22 12:19:04 [OK] Aplicada politica Normal-UPM a joseluis.sanchez@upm.es
+
+2025-10-22 12:19:06 [OK] Aplicada politica C3-Nacional-Móvil a joseluis.sanchez@upm.es
+
+2025-10-22 12:19:07 [OK] Aplicada politica VoiceRoutingPolicy1 a joseluis.sanchez@upm.es
+
+2025-10-22 12:19:09 [OK] Aplicada politica CP-1 a joseluis.sanchez@upm.es
+
+2025-10-22 12:19:10 [OK] Aplicada politica Normal-UPM a franciscojavier.gil@upm.es
+
+2025-10-22 12:19:12 [OK] Aplicada politica C3-Nacional-Móvil a franciscojavier.gil@upm.es
+
+2025-10-22 12:19:13 [OK] Aplicada politica VoiceRoutingPolicy1 a franciscojavier.gil@upm.es
+
+2025-10-22 12:19:14 [OK] Aplicada politica CP-1 a franciscojavier.gil@upm.es
+
+2025-10-22 12:19:15 [OK] Aplicada politica Normal-UPM a pedropablo.alarcon@upm.es
+
+2025-10-22 12:19:17 [OK] Aplicada politica C3-Nacional-Móvil a pedropablo.alarcon@upm.es
+
+2025-10-22 12:19:18 [OK] Aplicada politica VoiceRoutingPolicy1 a pedropablo.alarcon@upm.es
+
+2025-10-22 12:19:20 [OK] Aplicada politica CP-1 a pedropablo.alarcon@upm.es
+
+2025-10-22 12:19:21 [OK] Aplicada politica Normal-UPM a fernando.demingo@upm.es
+
+2025-10-22 12:19:22 [OK] Aplicada politica C3-Nacional-Móvil a fernando.demingo@upm.es
+
+2025-10-22 12:19:23 [OK] Aplicada politica VoiceRoutingPolicy1 a fernando.demingo@upm.es
+
+2025-10-22 12:19:25 [OK] Aplicada politica CP-1 a fernando.demingo@upm.es
+
+2025-10-22 12:19:26 [OK] Aplicada politica Normal-UPM a santiago.alonso@upm.es
+
+2025-10-22 12:19:28 [OK] Aplicada politica C3-Nacional-Móvil a santiago.alonso@upm.es
+
+2025-10-22 12:19:29 [OK] Aplicada politica VoiceRoutingPolicy1 a santiago.alonso@upm.es
+
+2025-10-22 12:19:32 [OK] Aplicada politica CP-1 a santiago.alonso@upm.es
+
+2025-10-22 12:19:33 [OK] Aplicada politica Normal-UPM a marta.terrazo@upm.es
+
+2025-10-22 12:19:35 [OK] Aplicada politica C3-Nacional-Móvil a marta.terrazo@upm.es
+
+2025-10-22 12:19:37 [OK] Aplicada politica VoiceRoutingPolicy1 a marta.terrazo@upm.es
+
+2025-10-22 12:19:38 [OK] Aplicada politica CP-1 a marta.terrazo@upm.es
+
+2025-10-22 12:19:40 [OK] Aplicada politica Normal-UPM a pilar.martinez@upm.es
+
+2025-10-22 12:19:42 [OK] Aplicada politica C3-Nacional-Móvil a pilar.martinez@upm.es
+
+2025-10-22 12:19:43 [OK] Aplicada politica VoiceRoutingPolicy1 a pilar.martinez@upm.es
+
+2025-10-22 12:19:44 [OK] Aplicada politica CP-1 a pilar.martinez@upm.es
+
+2025-10-22 12:19:44 [OK] Aplicada politica Normal-UPM a nuria.gomez.blas@upm.es
+
+2025-10-22 12:19:45 [OK] Aplicada politica C3-Nacional-Móvil a nuria.gomez.blas@upm.es
+
+2025-10-22 12:19:46 [OK] Aplicada politica VoiceRoutingPolicy1 a nuria.gomez.blas@upm.es
+
+2025-10-22 12:19:48 [OK] Aplicada politica CP-1 a nuria.gomez.blas@upm.es
+
+2025-10-22 12:19:51 [OK] Aplicada politica Normal-UPM a jenifer.perez@upm.es
+
+2025-10-22 12:19:52 [OK] Aplicada politica C3-Nacional-Móvil a jenifer.perez@upm.es
+
+2025-10-22 12:19:52 [OK] Aplicada politica VoiceRoutingPolicy1 a jenifer.perez@upm.es
+
+2025-10-22 12:19:54 [OK] Aplicada politica CP-1 a jenifer.perez@upm.es
+
+2025-10-22 12:19:55 [OK] Aplicada politica Normal-UPM a joseramon.sanchez.couso@upm.es
+
+2025-10-22 12:19:56 [OK] Aplicada politica C3-Nacional-Móvil a joseramon.sanchez.couso@upm.es
+
+2025-10-22 12:19:58 [OK] Aplicada politica VoiceRoutingPolicy1 a joseramon.sanchez.couso@upm.es
+
+2025-10-22 12:19:59 [OK] Aplicada politica CP-1 a joseramon.sanchez.couso@upm.es
+
+2025-10-22 12:20:00 [OK] Aplicada politica Normal-UPM a juan.garbajosa@upm.es
+
+2025-10-22 12:20:01 [OK] Aplicada politica C3-Nacional-Móvil a juan.garbajosa@upm.es
+
+2025-10-22 12:20:01 [OK] Aplicada politica VoiceRoutingPolicy1 a juan.garbajosa@upm.es
+
+2025-10-22 12:20:02 [OK] Aplicada politica CP-1 a juan.garbajosa@upm.es
+
+2025-10-22 12:20:03 [OK] Aplicada politica Normal-UPM a m.diaz@upm.es
+
+2025-10-22 12:20:04 [OK] Aplicada politica C3-Nacional-Móvil a m.diaz@upm.es
+
+2025-10-22 12:20:05 [OK] Aplicada politica VoiceRoutingPolicy1 a m.diaz@upm.es
+
+2025-10-22 12:20:05 [OK] Aplicada politica CP-1 a m.diaz@upm.es
+
+2025-10-22 12:20:06 [OK] Aplicada politica Normal-UPM a manuel.ottaviano@upm.es
+
+2025-10-22 12:20:07 [OK] Aplicada politica C3-Nacional-Móvil a manuel.ottaviano@upm.es
+
+2025-10-22 12:20:07 [OK] Aplicada politica VoiceRoutingPolicy1 a manuel.ottaviano@upm.es
+
+2025-10-22 12:20:08 [OK] Aplicada politica CP-1 a manuel.ottaviano@upm.es
+
+2025-10-22 12:20:09 [OK] Aplicada politica Normal-UPM a carolina.gallardop@upm.es
+
+2025-10-22 12:20:10 [OK] Aplicada politica C3-Nacional-Móvil a carolina.gallardop@upm.es
+
+2025-10-22 12:20:10 [OK] Aplicada politica VoiceRoutingPolicy1 a carolina.gallardop@upm.es
+
+2025-10-22 12:20:11 [OK] Aplicada politica CP-1 a carolina.gallardop@upm.es
+
+2025-10-22 12:20:12 [OK] Aplicada politica Normal-UPM a mariasoledad.delgado@upm.es
+
+2025-10-22 12:20:15 [OK] Aplicada politica C3-Nacional-Móvil a mariasoledad.delgado@upm.es
+
+2025-10-22 12:20:16 [OK] Aplicada politica VoiceRoutingPolicy1 a mariasoledad.delgado@upm.es
+
+2025-10-22 12:20:16 [OK] Aplicada politica CP-1 a mariasoledad.delgado@upm.es
+
+2025-10-22 12:20:17 [OK] Aplicada politica Normal-UPM a fernando.ortega@upm.es
+
+2025-10-22 12:20:18 [OK] Aplicada politica C3-Nacional-Móvil a fernando.ortega@upm.es
+
+2025-10-22 12:20:19 [OK] Aplicada politica VoiceRoutingPolicy1 a fernando.ortega@upm.es
+
+2025-10-22 12:20:20 [OK] Aplicada politica CP-1 a fernando.ortega@upm.es
+
+2025-10-22 12:20:21 [OK] Aplicada politica Normal-UPM a sm.gomez@upm.es
+
+2025-10-22 12:20:21 [OK] Aplicada politica C3-Nacional-Móvil a sm.gomez@upm.es
+
+2025-10-22 12:20:22 [OK] Aplicada politica VoiceRoutingPolicy1 a sm.gomez@upm.es
+
+2025-10-22 12:20:23 [OK] Aplicada politica CP-1 a sm.gomez@upm.es
+
+2025-10-22 12:20:23 [OK] Aplicada politica Normal-UPM a javier.alegre.landaburu@upm.es
+
+2025-10-22 12:20:24 [OK] Aplicada politica C3-Nacional-Móvil a javier.alegre.landaburu@upm.es
+
+2025-10-22 12:20:26 [OK] Aplicada politica VoiceRoutingPolicy1 a javier.alegre.landaburu@upm.es
+
+2025-10-22 12:20:26 [OK] Aplicada politica CP-1 a javier.alegre.landaburu@upm.es
+
+2025-10-22 12:20:27 [OK] Aplicada politica Normal-UPM a victor.rfernandez@upm.es
+
+2025-10-22 12:20:28 [OK] Aplicada politica C3-Nacional-Móvil a victor.rfernandez@upm.es
+
+2025-10-22 12:20:28 [OK] Aplicada politica VoiceRoutingPolicy1 a victor.rfernandez@upm.es
+
+2025-10-22 12:20:29 [OK] Aplicada politica CP-1 a victor.rfernandez@upm.es
+
+2025-10-22 12:20:30 [OK] Aplicada politica Normal-UPM a c.lorenzon@upm.es
+
+2025-10-22 12:20:30 [OK] Aplicada politica C3-Nacional-Móvil a c.lorenzon@upm.es
+
+2025-10-22 12:20:31 [OK] Aplicada politica VoiceRoutingPolicy1 a c.lorenzon@upm.es
+
+2025-10-22 12:20:33 [OK] Aplicada politica CP-1 a c.lorenzon@upm.es
+
+2025-10-22 12:20:33 [OK] Aplicada politica Normal-UPM a javier.huertas.tato@upm.es
+
+2025-10-22 12:20:34 [OK] Aplicada politica C3-Nacional-Móvil a javier.huertas.tato@upm.es
+
+2025-10-22 12:20:35 [OK] Aplicada politica VoiceRoutingPolicy1 a javier.huertas.tato@upm.es
+
+2025-10-22 12:20:36 [OK] Aplicada politica CP-1 a javier.huertas.tato@upm.es
+
+2025-10-22 12:20:37 [OK] Aplicada politica Normal-UPM a j.gayoso@upm.es
+
+2025-10-22 12:20:38 [OK] Aplicada politica C3-Nacional-Móvil a j.gayoso@upm.es
+
+2025-10-22 12:20:39 [OK] Aplicada politica VoiceRoutingPolicy1 a j.gayoso@upm.es
+
+2025-10-22 12:20:40 [OK] Aplicada politica CP-1 a j.gayoso@upm.es
+
+2025-10-22 12:20:41 [OK] Aplicada politica Normal-UPM a juanalberto.defrutos@upm.es
+
+2025-10-22 12:20:42 [OK] Aplicada politica C3-Nacional-Móvil a juanalberto.defrutos@upm.es
+
+2025-10-22 12:20:42 [OK] Aplicada politica VoiceRoutingPolicy1 a juanalberto.defrutos@upm.es
+
+2025-10-22 12:20:43 [OK] Aplicada politica CP-1 a juanalberto.defrutos@upm.es
+
+2025-10-22 12:20:44 [OK] Aplicada politica Normal-UPM a david.camacho@upm.es
+
+2025-10-22 12:20:45 [OK] Aplicada politica C3-Nacional-Móvil a david.camacho@upm.es
+
+2025-10-22 12:20:45 [OK] Aplicada politica VoiceRoutingPolicy1 a david.camacho@upm.es
+
+2025-10-22 12:20:46 [OK] Aplicada politica CP-1 a david.camacho@upm.es
+
+2025-10-22 12:20:47 [OK] Aplicada politica Normal-UPM a fj.naharro@upm.es
+
+2025-10-22 12:20:48 [OK] Aplicada politica C3-Nacional-Móvil a fj.naharro@upm.es
+
+2025-10-22 12:20:48 [OK] Aplicada politica VoiceRoutingPolicy1 a fj.naharro@upm.es
+
+2025-10-22 12:20:49 [OK] Aplicada politica CP-1 a fj.naharro@upm.es
+
+2025-10-22 12:20:50 [OK] Aplicada politica Normal-UPM a victor.mitrana@upm.es
+
+2025-10-22 12:20:50 [OK] Aplicada politica C3-Nacional-Móvil a victor.mitrana@upm.es
+
+2025-10-22 12:20:51 [OK] Aplicada politica VoiceRoutingPolicy1 a victor.mitrana@upm.es
+
+2025-10-22 12:20:52 [OK] Aplicada politica CP-1 a victor.mitrana@upm.es
+
+2025-10-22 12:20:53 [OK] Aplicada politica Normal-UPM a e.talavera@upm.es
+
+2025-10-22 12:20:54 [OK] Aplicada politica C3-Nacional-Móvil a e.talavera@upm.es
+
+2025-10-22 12:20:54 [OK] Aplicada politica VoiceRoutingPolicy1 a e.talavera@upm.es
+
+2025-10-22 12:20:55 [OK] Aplicada politica CP-1 a e.talavera@upm.es
+
+2025-10-22 12:20:56 [OK] Aplicada politica Normal-UPM a josecarlos.gamazo@upm.es
+
+2025-10-22 12:20:57 [OK] Aplicada politica C3-Nacional-Móvil a josecarlos.gamazo@upm.es
+
+2025-10-22 12:20:59 [OK] Aplicada politica VoiceRoutingPolicy1 a josecarlos.gamazo@upm.es
+
+2025-10-22 12:21:00 [OK] Aplicada politica CP-1 a josecarlos.gamazo@upm.es
+
+2025-10-22 12:21:01 [OK] Aplicada politica Normal-UPM a lm.pozo@upm.es
+
+2025-10-22 12:21:02 [OK] Aplicada politica C3-Nacional-Móvil a lm.pozo@upm.es
+
+2025-10-22 12:21:02 [OK] Aplicada politica VoiceRoutingPolicy1 a lm.pozo@upm.es
+
+2025-10-22 12:21:03 [OK] Aplicada politica CP-1 a lm.pozo@upm.es
+
+2025-10-22 12:21:04 [OK] Aplicada politica Normal-UPM a anaisabel.lias@upm.es
+
+2025-10-22 12:21:05 [OK] Aplicada politica C3-Nacional-Móvil a anaisabel.lias@upm.es
+
+2025-10-22 12:21:06 [OK] Aplicada politica VoiceRoutingPolicy1 a anaisabel.lias@upm.es
+
+2025-10-22 12:21:06 [OK] Aplicada politica CP-1 a anaisabel.lias@upm.es
+
+2025-10-22 12:21:08 [OK] Aplicada politica Normal-UPM a francisco.gomez@upm.es
+
+2025-10-22 12:21:09 [OK] Aplicada politica C3-Nacional-Móvil a francisco.gomez@upm.es
+
+2025-10-22 12:21:10 [OK] Aplicada politica VoiceRoutingPolicy1 a francisco.gomez@upm.es
+
+2025-10-22 12:21:10 [OK] Aplicada politica CP-1 a francisco.gomez@upm.es
+
+2025-10-22 12:21:11 [OK] Aplicada politica Normal-UPM a luismiguel.carrasco@upm.es
+
+2025-10-22 12:21:12 [OK] Aplicada politica C3-Nacional-Móvil a luismiguel.carrasco@upm.es
+
+2025-10-22 12:21:12 [OK] Aplicada politica VoiceRoutingPolicy1 a luismiguel.carrasco@upm.es
+
+2025-10-22 12:21:13 [OK] Aplicada politica CP-1 a luismiguel.carrasco@upm.es
+
+2025-10-22 12:21:14 [OK] Aplicada politica Normal-UPM a rafael.minano@upm.es
+
+2025-10-22 12:21:14 [OK] Aplicada politica C3-Nacional-Móvil a rafael.minano@upm.es
+
+2025-10-22 12:21:15 [OK] Aplicada politica VoiceRoutingPolicy1 a rafael.minano@upm.es
+
+2025-10-22 12:21:16 [OK] Aplicada politica CP-1 a rafael.minano@upm.es
+
+2025-10-22 12:21:17 [OK] Aplicada politica Normal-UPM a gregoria.blanco@upm.es
+
+2025-10-22 12:21:17 [OK] Aplicada politica C3-Nacional-Móvil a gregoria.blanco@upm.es
+
+2025-10-22 12:21:18 [OK] Aplicada politica VoiceRoutingPolicy1 a gregoria.blanco@upm.es
+
+2025-10-22 12:21:19 [OK] Aplicada politica CP-1 a gregoria.blanco@upm.es
+
+2025-10-22 12:21:19 [OK] Aplicada politica Normal-UPM a anabelen.cristobal@upm.es
+
+2025-10-22 12:21:20 [OK] Aplicada politica C3-Nacional-Móvil a anabelen.cristobal@upm.es
+
+2025-10-22 12:21:21 [OK] Aplicada politica VoiceRoutingPolicy1 a anabelen.cristobal@upm.es
+
+2025-10-22 12:21:22 [OK] Aplicada politica CP-1 a anabelen.cristobal@upm.es
+
+2025-10-22 12:21:26 [OK] Aplicada politica Normal-UPM a juan.martin.sotoca@upm.es
+
+2025-10-22 12:21:29 [OK] Aplicada politica C3-Nacional-Móvil a juan.martin.sotoca@upm.es
+
+2025-10-22 12:21:30 [OK] Aplicada politica VoiceRoutingPolicy1 a juan.martin.sotoca@upm.es
+
+2025-10-22 12:21:31 [OK] Aplicada politica CP-1 a juan.martin.sotoca@upm.es
+
+2025-10-22 12:21:35 [OK] Aplicada politica Normal-UPM a a.corral@upm.es
+
+2025-10-22 12:21:37 [OK] Aplicada politica C3-Nacional-Móvil a a.corral@upm.es
+
+2025-10-22 12:21:39 [OK] Aplicada politica VoiceRoutingPolicy1 a a.corral@upm.es
+
+2025-10-22 12:21:40 [OK] Aplicada politica CP-1 a a.corral@upm.es
+
+2025-10-22 12:21:43 [OK] Aplicada politica Normal-UPM a jesus.glopezdelacalle@upm.es
+
+2025-10-22 12:21:45 [OK] Aplicada politica C3-Nacional-Móvil a jesus.glopezdelacalle@upm.es
+
+2025-10-22 12:21:49 [OK] Aplicada politica VoiceRoutingPolicy1 a jesus.glopezdelacalle@upm.es
+
+2025-10-22 12:21:50 [OK] Aplicada politica CP-1 a jesus.glopezdelacalle@upm.es
+
+2025-10-22 12:21:54 [OK] Aplicada politica Normal-UPM a carlos.quesada@upm.es
+
+2025-10-22 12:21:57 [OK] Aplicada politica C3-Nacional-Móvil a carlos.quesada@upm.es
+
+2025-10-22 12:21:59 [OK] Aplicada politica VoiceRoutingPolicy1 a carlos.quesada@upm.es
+
+2025-10-22 12:21:59 [OK] Aplicada politica CP-1 a carlos.quesada@upm.es
+
+2025-10-22 12:22:02 [OK] Aplicada politica Normal-UPM a jose.merodio@upm.es
+
+2025-10-22 12:22:05 [OK] Aplicada politica C3-Nacional-Móvil a jose.merodio@upm.es
+
+2025-10-22 12:22:07 [OK] Aplicada politica VoiceRoutingPolicy1 a jose.merodio@upm.es
+
+2025-10-22 12:22:09 [OK] Aplicada politica CP-1 a jose.merodio@upm.es
+
+2025-10-22 12:22:11 [OK] Aplicada politica Normal-UPM a alberto.cruz@upm.es
+
+2025-10-22 12:22:13 [OK] Aplicada politica C3-Nacional-Móvil a alberto.cruz@upm.es
+
+2025-10-22 12:22:16 [OK] Aplicada politica VoiceRoutingPolicy1 a alberto.cruz@upm.es
+
+2025-10-22 12:22:17 [OK] Aplicada politica CP-1 a alberto.cruz@upm.es
+
+2025-10-22 12:22:20 [OK] Aplicada politica Normal-UPM a helena.liz@upm.es
+
+2025-10-22 12:22:22 [OK] Aplicada politica C3-Nacional-Móvil a helena.liz@upm.es
+
+2025-10-22 12:22:25 [OK] Aplicada politica VoiceRoutingPolicy1 a helena.liz@upm.es
+
+2025-10-22 12:22:25 [OK] Aplicada politica CP-1 a helena.liz@upm.es
+
+2025-10-22 12:22:27 [OK] Aplicada politica Normal-UPM a alejandro.leo.ramirez@upm.es
+
+2025-10-22 12:22:30 [OK] Aplicada politica C3-Nacional-Móvil a alejandro.leo.ramirez@upm.es
+
+2025-10-22 12:22:32 [OK] Aplicada politica VoiceRoutingPolicy1 a alejandro.leo.ramirez@upm.es
+
+2025-10-22 12:22:33 [OK] Aplicada politica CP-1 a alejandro.leo.ramirez@upm.es
+
+2025-10-22 12:22:35 [OK] Aplicada politica Normal-UPM a guillermo.iglesias@upm.es
+
+2025-10-22 12:22:38 [OK] Aplicada politica C3-Nacional-Móvil a guillermo.iglesias@upm.es
+
+2025-10-22 12:22:40 [OK] Aplicada politica VoiceRoutingPolicy1 a guillermo.iglesias@upm.es
+
+2025-10-22 12:22:41 [OK] Aplicada politica CP-1 a guillermo.iglesias@upm.es
+
+2025-10-22 12:22:43 [OK] Aplicada politica Normal-UPM a vicente.garcia@upm.es
+
+2025-10-22 12:22:45 [OK] Aplicada politica C3-Nacional-Móvil a vicente.garcia@upm.es
+
+2025-10-22 12:22:46 [OK] Aplicada politica VoiceRoutingPolicy1 a vicente.garcia@upm.es
+
+2025-10-22 12:22:47 [OK] Aplicada politica CP-1 a vicente.garcia@upm.es
+
+2025-10-22 12:22:49 [OK] Aplicada politica Normal-UPM a rodrigo.marino@upm.es
+
+2025-10-22 12:22:50 [OK] Aplicada politica C3-Nacional-Móvil a rodrigo.marino@upm.es
+
+2025-10-22 12:22:51 [OK] Aplicada politica VoiceRoutingPolicy1 a rodrigo.marino@upm.es
+
+2025-10-22 12:22:51 [OK] Aplicada politica CP-1 a rodrigo.marino@upm.es
+
+2025-10-22 12:22:52 [OK] Aplicada politica Normal-UPM a l.delacal@upm.es
+
+2025-10-22 12:22:53 [OK] Aplicada politica C3-Nacional-Móvil a l.delacal@upm.es
+
+2025-10-22 12:22:54 [OK] Aplicada politica VoiceRoutingPolicy1 a l.delacal@upm.es
+
+2025-10-22 12:22:54 [OK] Aplicada politica CP-1 a l.delacal@upm.es
+
+2025-10-22 12:22:55 [OK] Aplicada politica Normal-UPM a carlos.peon@upm.es
+
+2025-10-22 12:22:56 [OK] Aplicada politica C3-Nacional-Móvil a carlos.peon@upm.es
+
+2025-10-22 12:22:57 [OK] Aplicada politica VoiceRoutingPolicy1 a carlos.peon@upm.es
+
+2025-10-22 12:22:57 [OK] Aplicada politica CP-1 a carlos.peon@upm.es
+
+2025-10-22 12:22:58 [OK] Aplicada politica Normal-UPM a mariacelia.fernandez@upm.es
+
+2025-10-22 12:22:59 [OK] Aplicada politica C3-Nacional-Móvil a mariacelia.fernandez@upm.es
+
+2025-10-22 12:22:59 [OK] Aplicada politica VoiceRoutingPolicy1 a mariacelia.fernandez@upm.es
+
+2025-10-22 12:23:00 [OK] Aplicada politica CP-1 a mariacelia.fernandez@upm.es
+
+2025-10-22 12:23:01 [OK] Aplicada politica Normal-UPM a sergio.rvillafranca@upm.es
+
+2025-10-22 12:23:02 [OK] Aplicada politica C3-Nacional-Móvil a sergio.rvillafranca@upm.es
+
+2025-10-22 12:23:03 [OK] Aplicada politica VoiceRoutingPolicy1 a sergio.rvillafranca@upm.es
+
+2025-10-22 12:23:03 [OK] Aplicada politica CP-1 a sergio.rvillafranca@upm.es
+
+2025-10-22 12:23:04 [OK] Aplicada politica Normal-UPM a aureamaria.angueradesojo@upm.es
+
+2025-10-22 12:23:05 [OK] Aplicada politica C3-Nacional-Móvil a aureamaria.angueradesojo@upm.es
+
+2025-10-22 12:23:06 [OK] Aplicada politica VoiceRoutingPolicy1 a aureamaria.angueradesojo@upm.es
+
+2025-10-22 12:23:06 [OK] Aplicada politica CP-1 a aureamaria.angueradesojo@upm.es
+
+2025-10-22 12:23:07 [OK] Aplicada politica Normal-UPM a victor.martinez.hernando@upm.es
+
+2025-10-22 12:23:08 [OK] Aplicada politica C3-Nacional-Móvil a victor.martinez.hernando@upm.es
+
+2025-10-22 12:23:08 [OK] Aplicada politica VoiceRoutingPolicy1 a victor.martinez.hernando@upm.es
+
+2025-10-22 12:23:09 [OK] Aplicada politica CP-1 a victor.martinez.hernando@upm.es
+
+2025-10-22 12:23:10 [OK] Aplicada politica Normal-UPM a ernesto.jimenez.merino@upm.es
+
+2025-10-22 12:23:11 [OK] Aplicada politica C3-Nacional-Móvil a ernesto.jimenez.merino@upm.es
+
+2025-10-22 12:23:11 [OK] Aplicada politica VoiceRoutingPolicy1 a ernesto.jimenez.merino@upm.es
+
+2025-10-22 12:23:12 [OK] Aplicada politica CP-1 a ernesto.jimenez.merino@upm.es
+
+2025-10-22 12:23:13 [OK] Aplicada politica Normal-UPM a eduardo.mmurciano@upm.es
+
+2025-10-22 12:23:14 [OK] Aplicada politica C3-Nacional-Móvil a eduardo.mmurciano@upm.es
+
+2025-10-22 12:23:14 [OK] Aplicada politica VoiceRoutingPolicy1 a eduardo.mmurciano@upm.es
+
+2025-10-22 12:23:15 [OK] Aplicada politica CP-1 a eduardo.mmurciano@upm.es
+
+2025-10-22 12:23:16 [OK] Aplicada politica Normal-UPM a montserrat.hvinas@upm.es
+
+2025-10-22 12:23:17 [OK] Aplicada politica C3-Nacional-Móvil a montserrat.hvinas@upm.es
+
+2025-10-22 12:23:17 [OK] Aplicada politica VoiceRoutingPolicy1 a montserrat.hvinas@upm.es
+
+2025-10-22 12:23:18 [OK] Aplicada politica CP-1 a montserrat.hvinas@upm.es
+
+2025-10-22 12:23:19 [OK] Aplicada politica Normal-UPM a francisco.diazp@upm.es
+
+2025-10-22 12:23:20 [OK] Aplicada politica C3-Nacional-Móvil a francisco.diazp@upm.es
+
+2025-10-22 12:23:20 [OK] Aplicada politica VoiceRoutingPolicy1 a francisco.diazp@upm.es
+
+2025-10-22 12:23:21 [OK] Aplicada politica CP-1 a francisco.diazp@upm.es
+
+2025-10-22 12:23:22 [OK] Aplicada politica Normal-UPM a sergio.dantonio@upm.es
+
+2025-10-22 12:23:23 [OK] Aplicada politica C3-Nacional-Móvil a sergio.dantonio@upm.es
+
+2025-10-22 12:23:23 [OK] Aplicada politica VoiceRoutingPolicy1 a sergio.dantonio@upm.es
+
+2025-10-22 12:23:25 [OK] Aplicada politica CP-1 a sergio.dantonio@upm.es
+
+2025-10-22 12:23:26 [OK] Aplicada politica Normal-UPM a jose.defrutos@upm.es
+
+2025-10-22 12:23:27 [OK] Aplicada politica C3-Nacional-Móvil a jose.defrutos@upm.es
+
+2025-10-22 12:23:27 [OK] Aplicada politica VoiceRoutingPolicy1 a jose.defrutos@upm.es
+
+2025-10-22 12:23:28 [OK] Aplicada politica CP-1 a jose.defrutos@upm.es
+
+2025-10-22 12:23:29 [OK] Aplicada politica Normal-UPM a paula.farias@upm.es
+
+2025-10-22 12:23:29 [OK] Aplicada politica C3-Nacional-Móvil a paula.farias@upm.es
+
+2025-10-22 12:23:30 [OK] Aplicada politica VoiceRoutingPolicy1 a paula.farias@upm.es
+
+2025-10-22 12:23:31 [OK] Aplicada politica CP-1 a paula.farias@upm.es
+
+2025-10-22 12:23:31 [OK] Aplicada politica Normal-UPM a joseeugenio.naranjo@upm.es
+
+2025-10-22 12:23:32 [OK] Aplicada politica C3-Nacional-Móvil a joseeugenio.naranjo@upm.es
+
+2025-10-22 12:23:33 [OK] Aplicada politica VoiceRoutingPolicy1 a joseeugenio.naranjo@upm.es
+
+2025-10-22 12:23:34 [OK] Aplicada politica CP-1 a joseeugenio.naranjo@upm.es
+
+2025-10-22 12:23:35 [OK] Aplicada politica Normal-UPM a angel.arroyo@upm.es
+
+2025-10-22 12:23:35 [OK] Aplicada politica C3-Nacional-Móvil a angel.arroyo@upm.es
+
+2025-10-22 12:23:36 [OK] Aplicada politica VoiceRoutingPolicy1 a angel.arroyo@upm.es
+
+2025-10-22 12:23:37 [OK] Aplicada politica CP-1 a angel.arroyo@upm.es
+
+2025-10-22 12:23:37 [OK] Aplicada politica Normal-UPM a javier.alcala@upm.es
+
+2025-10-22 12:23:38 [OK] Aplicada politica C3-Nacional-Móvil a javier.alcala@upm.es
+
+2025-10-22 12:23:39 [OK] Aplicada politica VoiceRoutingPolicy1 a javier.alcala@upm.es
+
+2025-10-22 12:23:40 [OK] Aplicada politica CP-1 a javier.alcala@upm.es
+
+2025-10-22 12:23:40 [OK] Aplicada politica Normal-UPM a abraham.gutierrez@upm.es
+
+2025-10-22 12:23:41 [OK] Aplicada politica C3-Nacional-Móvil a abraham.gutierrez@upm.es
+
+2025-10-22 12:23:42 [OK] Aplicada politica VoiceRoutingPolicy1 a abraham.gutierrez@upm.es
+
+2025-10-22 12:23:43 [OK] Aplicada politica CP-1 a abraham.gutierrez@upm.es
+
+2025-10-22 12:23:44 [OK] Aplicada politica Normal-UPM a jesus.bobadilla@upm.es
+
+2025-10-22 12:23:45 [OK] Aplicada politica C3-Nacional-Móvil a jesus.bobadilla@upm.es
+
+2025-10-22 12:23:45 [OK] Aplicada politica VoiceRoutingPolicy1 a jesus.bobadilla@upm.es
+
+2025-10-22 12:23:47 [OK] Aplicada politica CP-1 a jesus.bobadilla@upm.es
+
+2025-10-22 12:23:48 [OK] Aplicada politica Normal-UPM a j.bernal@upm.es
+
+2025-10-22 12:23:49 [OK] Aplicada politica C3-Nacional-Móvil a j.bernal@upm.es
+
+2025-10-22 12:23:49 [OK] Aplicada politica VoiceRoutingPolicy1 a j.bernal@upm.es
+
+2025-10-22 12:23:50 [OK] Aplicada politica CP-1 a j.bernal@upm.es
+
+2025-10-22 12:23:51 [OK] Aplicada politica Normal-UPM a antonio.hernando@upm.es
+
+2025-10-22 12:23:52 [OK] Aplicada politica C3-Nacional-Móvil a antonio.hernando@upm.es
+
+2025-10-22 12:23:53 [OK] Aplicada politica VoiceRoutingPolicy1 a antonio.hernando@upm.es
+
+2025-10-22 12:23:54 [OK] Aplicada politica CP-1 a antonio.hernando@upm.es
+
+2025-10-22 12:23:55 [OK] Aplicada politica Normal-UPM a g.scarpa@upm.es
+
+2025-10-22 12:23:56 [OK] Aplicada politica C3-Nacional-Móvil a g.scarpa@upm.es
+
+2025-10-22 12:23:57 [OK] Aplicada politica VoiceRoutingPolicy1 a g.scarpa@upm.es
+
+2025-10-22 12:23:58 [OK] Aplicada politica CP-1 a g.scarpa@upm.es
+
+2025-10-22 12:23:58 [OK] Aplicada politica Normal-UPM a angel.panizo@upm.es
+
+2025-10-22 12:23:59 [OK] Aplicada politica C3-Nacional-Móvil a angel.panizo@upm.es
+
+2025-10-22 12:24:00 [OK] Aplicada politica VoiceRoutingPolicy1 a angel.panizo@upm.es
+
+2025-10-22 12:24:01 [OK] Aplicada politica CP-1 a angel.panizo@upm.es
+
+2025-10-22 12:24:02 [OK] Aplicada politica Normal-UPM a raul.lara@upm.es
+
+2025-10-22 12:24:03 [OK] Aplicada politica C3-Nacional-Móvil a raul.lara@upm.es
+
+2025-10-22 12:24:03 [OK] Aplicada politica VoiceRoutingPolicy1 a raul.lara@upm.es
+
+2025-10-22 12:24:04 [OK] Aplicada politica CP-1 a raul.lara@upm.es
+
+2025-10-22 12:24:05 [OK] Aplicada politica Normal-UPM a pilar.manzano@upm.es
+
+2025-10-22 12:24:05 [OK] Aplicada politica C3-Nacional-Móvil a pilar.manzano@upm.es
+
+2025-10-22 12:24:06 [OK] Aplicada politica VoiceRoutingPolicy1 a pilar.manzano@upm.es
+
+2025-10-22 12:24:07 [OK] Aplicada politica CP-1 a pilar.manzano@upm.es
+
+2025-10-22 12:24:07 [OK] Aplicada politica Normal-UPM a vanessa.rodriguez.horcajo@upm.es
+
+2025-10-22 12:24:08 [OK] Aplicada politica C3-Nacional-Móvil a vanessa.rodriguez.horcajo@upm.es
+
+2025-10-22 12:24:09 [OK] Aplicada politica VoiceRoutingPolicy1 a vanessa.rodriguez.horcajo@upm.es
+
+2025-10-22 12:24:10 [OK] Aplicada politica CP-1 a vanessa.rodriguez.horcajo@upm.es
+
+2025-10-22 12:24:10 [OK] Aplicada politica Normal-UPM a jorgeenrique.perez@upm.es
+
+2025-10-22 12:24:11 [OK] Aplicada politica C3-Nacional-Móvil a jorgeenrique.perez@upm.es
+
+2025-10-22 12:24:12 [OK] Aplicada politica VoiceRoutingPolicy1 a jorgeenrique.perez@upm.es
+
+2025-10-22 12:24:12 [OK] Aplicada politica CP-1 a jorgeenrique.perez@upm.es
+
+2025-10-22 12:24:13 [OK] Aplicada politica Normal-UPM a paco.aylagas@upm.es
+
+2025-10-22 12:24:14 [OK] Aplicada politica C3-Nacional-Móvil a paco.aylagas@upm.es
+
+2025-10-22 12:24:14 [OK] Aplicada politica VoiceRoutingPolicy1 a paco.aylagas@upm.es
+
+2025-10-22 12:24:15 [OK] Aplicada politica CP-1 a paco.aylagas@upm.es
+
+2025-10-22 12:24:16 [OK] Aplicada politica Normal-UPM a andres.sevilla@upm.es
+
+2025-10-22 12:24:17 [OK] Aplicada politica C3-Nacional-Móvil a andres.sevilla@upm.es
+
+2025-10-22 12:24:17 [OK] Aplicada politica VoiceRoutingPolicy1 a andres.sevilla@upm.es
+
+2025-10-22 12:24:18 [OK] Aplicada politica CP-1 a andres.sevilla@upm.es
+
+2025-10-22 12:24:19 [OK] Aplicada politica Normal-UPM a javier.garciam@upm.es
+
+2025-10-22 12:24:19 [OK] Aplicada politica C3-Nacional-Móvil a javier.garciam@upm.es
+
+2025-10-22 12:24:20 [OK] Aplicada politica VoiceRoutingPolicy1 a javier.garciam@upm.es
+
+2025-10-22 12:24:21 [OK] Aplicada politica CP-1 a javier.garciam@upm.es
+
+2025-10-22 12:24:21 [OK] Aplicada politica Normal-UPM a j.entrialgo@upm.es
+
+2025-10-22 12:24:22 [OK] Aplicada politica C3-Nacional-Móvil a j.entrialgo@upm.es
+
+2025-10-22 12:24:23 [OK] Aplicada politica VoiceRoutingPolicy1 a j.entrialgo@upm.es
+
+2025-10-22 12:24:23 [OK] Aplicada politica CP-1 a j.entrialgo@upm.es
+
+2025-10-22 12:24:24 [OK] Aplicada politica Normal-UPM a juanmanuel.castelo@upm.es
+
+2025-10-22 12:24:25 [OK] Aplicada politica C3-Nacional-Móvil a juanmanuel.castelo@upm.es
+
+2025-10-22 12:24:26 [OK] Aplicada politica VoiceRoutingPolicy1 a juanmanuel.castelo@upm.es
+
+2025-10-22 12:24:26 [OK] Aplicada politica CP-1 a juanmanuel.castelo@upm.es
+
+2025-10-22 12:24:27 [OK] Aplicada politica Normal-UPM a juanantonio.rodrigo@upm.es
+
+2025-10-22 12:24:28 [OK] Aplicada politica C3-Nacional-Móvil a juanantonio.rodrigo@upm.es
+
+2025-10-22 12:24:29 [OK] Aplicada politica VoiceRoutingPolicy1 a juanantonio.rodrigo@upm.es
+
+2025-10-22 12:24:29 [OK] Aplicada politica CP-1 a juanantonio.rodrigo@upm.es
+
+2025-10-22 12:24:30 [OK] Aplicada politica Normal-UPM a alberto.diaz@upm.es
+
+2025-10-22 12:24:31 [OK] Aplicada politica C3-Nacional-Móvil a alberto.diaz@upm.es
+
+2025-10-22 12:24:32 [OK] Aplicada politica VoiceRoutingPolicy1 a alberto.diaz@upm.es
+
+2025-10-22 12:24:32 [OK] Aplicada politica CP-1 a alberto.diaz@upm.es
+
+2025-10-22 12:24:33 [OK] Aplicada politica Normal-UPM a a.mozo@upm.es
+
+2025-10-22 12:24:34 [OK] Aplicada politica C3-Nacional-Móvil a a.mozo@upm.es
+
+2025-10-22 12:24:34 [OK] Aplicada politica VoiceRoutingPolicy1 a a.mozo@upm.es
+
+2025-10-22 12:24:35 [OK] Aplicada politica CP-1 a a.mozo@upm.es
+
+2025-10-22 12:24:36 [OK] Aplicada politica Normal-UPM a joseluis.miras@upm.es
+
+2025-10-22 12:24:37 [OK] Aplicada politica C3-Nacional-Móvil a joseluis.miras@upm.es
+
+2025-10-22 12:24:37 [OK] Aplicada politica VoiceRoutingPolicy1 a joseluis.miras@upm.es
+
+2025-10-22 12:24:38 [OK] Aplicada politica CP-1 a joseluis.miras@upm.es
+
+2025-10-22 12:24:38 [OK] Aplicada politica Normal-UPM a yolanda.blazquez@upm.es
+
+2025-10-22 12:24:39 [OK] Aplicada politica C3-Nacional-Móvil a yolanda.blazquez@upm.es
+
+2025-10-22 12:24:40 [OK] Aplicada politica VoiceRoutingPolicy1 a yolanda.blazquez@upm.es
+
+2025-10-22 12:24:41 [OK] Aplicada politica CP-1 a yolanda.blazquez@upm.es
+
+2025-10-22 12:24:41 [OK] Aplicada politica Normal-UPM a joseluis.llavona@upm.es
+
+2025-10-22 12:24:42 [OK] Aplicada politica C3-Nacional-Móvil a joseluis.llavona@upm.es
+
+2025-10-22 12:24:43 [OK] Aplicada politica VoiceRoutingPolicy1 a joseluis.llavona@upm.es
+
+2025-10-22 12:24:44 [OK] Aplicada politica CP-1 a joseluis.llavona@upm.es
+
+2025-10-22 12:24:44 [OK] Aplicada politica Normal-UPM a a.andrades@upm.es
+
+2025-10-22 12:24:45 [OK] Aplicada politica C3-Nacional-Móvil a a.andrades@upm.es
+
+2025-10-22 12:24:46 [OK] Aplicada politica VoiceRoutingPolicy1 a a.andrades@upm.es
+
+2025-10-22 12:24:46 [OK] Aplicada politica CP-1 a a.andrades@upm.es
+
+2025-10-22 12:24:47 [OK] Aplicada politica Normal-UPM a jose.gutierrez@upm.es
+
+2025-10-22 12:24:48 [OK] Aplicada politica C3-Nacional-Móvil a jose.gutierrez@upm.es
+
+2025-10-22 12:24:48 [OK] Aplicada politica VoiceRoutingPolicy1 a jose.gutierrez@upm.es
+
+2025-10-22 12:24:49 [OK] Aplicada politica CP-1 a jose.gutierrez@upm.es
+
+2025-10-22 12:24:50 [OK] Aplicada politica Normal-UPM a elvira.mgomez@upm.es
+
+2025-10-22 12:24:51 [OK] Aplicada politica C3-Nacional-Móvil a elvira.mgomez@upm.es
+
+2025-10-22 12:24:52 [OK] Aplicada politica VoiceRoutingPolicy1 a elvira.mgomez@upm.es
+
+2025-10-22 12:24:52 [OK] Aplicada politica CP-1 a elvira.mgomez@upm.es
+
+2025-10-22 12:24:53 [OK] Aplicada politica Normal-UPM a javier.serrano@upm.es
+
+2025-10-22 12:24:54 [OK] Aplicada politica C3-Nacional-Móvil a javier.serrano@upm.es
+
+2025-10-22 12:24:54 [OK] Aplicada politica VoiceRoutingPolicy1 a javier.serrano@upm.es
+
+2025-10-22 12:24:55 [OK] Aplicada politica CP-1 a javier.serrano@upm.es
+
+2025-10-22 12:24:56 [OK] Aplicada politica Normal-UPM a rodrigo.raya@upm.es
+
+2025-10-22 12:24:56 [OK] Aplicada politica C3-Nacional-Móvil a rodrigo.raya@upm.es
+
+2025-10-22 12:24:57 [OK] Aplicada politica VoiceRoutingPolicy1 a rodrigo.raya@upm.es
+
+2025-10-22 12:24:58 [OK] Aplicada politica CP-1 a rodrigo.raya@upm.es
+
+2025-10-22 12:24:58 [OK] Aplicada politica Normal-UPM a tomas.robles@upm.es
+
+2025-10-22 12:24:59 [OK] Aplicada politica C3-Nacional-Móvil a tomas.robles@upm.es
+
+2025-10-22 12:24:59 [OK] Aplicada politica VoiceRoutingPolicy1 a tomas.robles@upm.es
+
+2025-10-22 12:25:01 [OK] Aplicada politica CP-1 a tomas.robles@upm.es
+
+2025-10-22 12:25:02 [OK] Aplicada politica Normal-UPM a sergio.gil@upm.es
+
+2025-10-22 12:25:03 [OK] Aplicada politica C3-Nacional-Móvil a sergio.gil@upm.es
+
+2025-10-22 12:25:03 [OK] Aplicada politica VoiceRoutingPolicy1 a sergio.gil@upm.es
+
+2025-10-22 12:25:04 [OK] Aplicada politica CP-1 a sergio.gil@upm.es
+
+2025-10-22 12:25:05 [OK] Aplicada politica Normal-UPM a juanmanuel.garitagoitia@upm.es
+
+2025-10-22 12:25:05 [OK] Aplicada politica C3-Nacional-Móvil a juanmanuel.garitagoitia@upm.es
+
+2025-10-22 12:25:06 [OK] Aplicada politica VoiceRoutingPolicy1 a juanmanuel.garitagoitia@upm.es
+
+2025-10-22 12:25:07 [OK] Aplicada politica CP-1 a juanmanuel.garitagoitia@upm.es
+
+2025-10-22 12:25:08 [OK] Aplicada politica Normal-UPM a jesus.mayor@upm.es
+
+2025-10-22 12:25:08 [OK] Aplicada politica C3-Nacional-Móvil a jesus.mayor@upm.es
+
+2025-10-22 12:25:09 [OK] Aplicada politica VoiceRoutingPolicy1 a jesus.mayor@upm.es
+
+2025-10-22 12:25:13 [OK] Aplicada politica CP-1 a jesus.mayor@upm.es
+
+2025-10-22 12:25:13 [OK] Aplicada politica Normal-UPM a borja.bordel@upm.es
+
+2025-10-22 12:25:14 [OK] Aplicada politica C3-Nacional-Móvil a borja.bordel@upm.es
+
+2025-10-22 12:25:15 [OK] Aplicada politica VoiceRoutingPolicy1 a borja.bordel@upm.es
+
+2025-10-22 12:25:16 [OK] Aplicada politica CP-1 a borja.bordel@upm.es
+
+2025-10-22 12:25:16 [OK] Aplicada politica Normal-UPM a gema.borgaz@upm.es
+
+2025-10-22 12:25:17 [OK] Aplicada politica C3-Nacional-Móvil a gema.borgaz@upm.es
+
+2025-10-22 12:25:18 [OK] Aplicada politica VoiceRoutingPolicy1 a gema.borgaz@upm.es
+
+2025-10-22 12:25:18 [OK] Aplicada politica CP-1 a gema.borgaz@upm.es
+
+2025-10-22 12:25:19 [OK] Aplicada politica Normal-UPM a daniel.lopez@upm.es
+
+2025-10-22 12:25:20 [OK] Aplicada politica C3-Nacional-Móvil a daniel.lopez@upm.es
+
+2025-10-22 12:25:21 [OK] Aplicada politica VoiceRoutingPolicy1 a daniel.lopez@upm.es
+
+2025-10-22 12:25:21 [OK] Aplicada politica CP-1 a daniel.lopez@upm.es
+
+2025-10-22 12:25:22 [OK] Aplicada politica Normal-UPM a alejandro.martin@upm.es
+
+2025-10-22 12:25:23 [OK] Aplicada politica C3-Nacional-Móvil a alejandro.martin@upm.es
+
+2025-10-22 12:25:23 [OK] Aplicada politica VoiceRoutingPolicy1 a alejandro.martin@upm.es
+
+2025-10-22 12:25:24 [OK] Aplicada politica CP-1 a alejandro.martin@upm.es
+
+2025-10-22 12:25:25 [OK] Aplicada politica Normal-UPM a cristian.ramirez@upm.es
+
+2025-10-22 12:25:25 [OK] Aplicada politica C3-Nacional-Móvil a cristian.ramirez@upm.es
+
+2025-10-22 12:25:26 [OK] Aplicada politica VoiceRoutingPolicy1 a cristian.ramirez@upm.es
+
+2025-10-22 12:25:27 [OK] Aplicada politica CP-1 a cristian.ramirez@upm.es
+
+2025-10-22 12:25:28 [OK] Aplicada politica Normal-UPM a carlos.camacho@upm.es
+
+2025-10-22 12:25:28 [OK] Aplicada politica C3-Nacional-Móvil a carlos.camacho@upm.es
+
+2025-10-22 12:25:29 [OK] Aplicada politica VoiceRoutingPolicy1 a carlos.camacho@upm.es
+
+2025-10-22 12:25:30 [OK] Aplicada politica CP-1 a carlos.camacho@upm.es
+
+2025-10-22 12:25:30 [OK] Aplicada politica Normal-UPM a m.navas@upm.es
+
+2025-10-22 12:25:31 [OK] Aplicada politica C3-Nacional-Móvil a m.navas@upm.es
+
+2025-10-22 12:25:32 [OK] Aplicada politica VoiceRoutingPolicy1 a m.navas@upm.es
+
+2025-10-22 12:25:33 [OK] Aplicada politica CP-1 a m.navas@upm.es
+
+2025-10-22 12:25:33 [OK] Aplicada politica Normal-UPM a carlos.casanova@upm.es
+
+2025-10-22 12:25:34 [OK] Aplicada politica C3-Nacional-Móvil a carlos.casanova@upm.es
+
+2025-10-22 12:25:35 [OK] Aplicada politica VoiceRoutingPolicy1 a carlos.casanova@upm.es
+
+2025-10-22 12:25:35 [OK] Aplicada politica CP-1 a carlos.casanova@upm.es
+
+2025-10-22 12:25:36 [OK] Aplicada politica Normal-UPM a mi.santamaria@upm.es
+
+2025-10-22 12:25:37 [OK] Aplicada politica C3-Nacional-Móvil a mi.santamaria@upm.es
+
+2025-10-22 12:25:38 [OK] Aplicada politica VoiceRoutingPolicy1 a mi.santamaria@upm.es
+
+2025-10-22 12:25:38 [OK] Aplicada politica CP-1 a mi.santamaria@upm.es
+
+2025-10-22 12:25:39 [OK] Aplicada politica Normal-UPM a m.uche@upm.es
+
+2025-10-22 12:25:40 [OK] Aplicada politica C3-Nacional-Móvil a m.uche@upm.es
+
+2025-10-22 12:25:40 [OK] Aplicada politica VoiceRoutingPolicy1 a m.uche@upm.es
+
+2025-10-22 12:25:41 [OK] Aplicada politica CP-1 a m.uche@upm.es
+
+2025-10-22 12:25:42 [OK] Aplicada politica Normal-UPM a alejandro.bmorante@upm.es
+
+2025-10-22 12:25:42 [OK] Aplicada politica C3-Nacional-Móvil a alejandro.bmorante@upm.es
+
+2025-10-22 12:25:43 [OK] Aplicada politica VoiceRoutingPolicy1 a alejandro.bmorante@upm.es
+
+2025-10-22 12:25:44 [OK] Aplicada politica CP-1 a alejandro.bmorante@upm.es
+
+2025-10-22 12:25:45 [OK] Aplicada politica Normal-UPM a jorge.duenas.lerin@upm.es
+
+2025-10-22 12:25:45 [OK] Aplicada politica C3-Nacional-Móvil a jorge.duenas.lerin@upm.es
+
+2025-10-22 12:25:46 [OK] Aplicada politica VoiceRoutingPolicy1 a jorge.duenas.lerin@upm.es
+
+2025-10-22 12:25:47 [OK] Aplicada politica CP-1 a jorge.duenas.lerin@upm.es
+
+2025-10-22 12:25:47 [OK] Aplicada politica Normal-UPM a gonzalo.martinez.ruizdearcaute@upm.es
+
+2025-10-22 12:25:48 [OK] Aplicada politica C3-Nacional-Móvil a gonzalo.martinez.ruizdearcaute@upm.es
+
+2025-10-22 12:25:49 [OK] Aplicada politica VoiceRoutingPolicy1 a gonzalo.martinez.ruizdearcaute@upm.es
+
+2025-10-22 12:25:49 [OK] Aplicada politica CP-1 a gonzalo.martinez.ruizdearcaute@upm.es
+
+2025-10-22 12:25:50 [OK] Aplicada politica Normal-UPM a j.burguet@upm.es
+
+2025-10-22 12:25:51 [OK] Aplicada politica C3-Nacional-Móvil a j.burguet@upm.es
+
+2025-10-22 12:25:51 [OK] Aplicada politica VoiceRoutingPolicy1 a j.burguet@upm.es
+
+2025-10-22 12:25:52 [OK] Aplicada politica CP-1 a j.burguet@upm.es
+
+2025-10-22 12:25:53 [OK] Aplicada politica Normal-UPM a c.castilla@upm.es
+
+2025-10-22 12:25:53 [OK] Aplicada politica C3-Nacional-Móvil a c.castilla@upm.es
+
+2025-10-22 12:25:54 [OK] Aplicada politica VoiceRoutingPolicy1 a c.castilla@upm.es
+
+2025-10-22 12:25:55 [OK] Aplicada politica CP-1 a c.castilla@upm.es
+
+2025-10-22 12:25:55 [OK] Aplicada politica Normal-UPM a carlos.badenes@upm.es
+
+2025-10-22 12:25:56 [OK] Aplicada politica C3-Nacional-Móvil a carlos.badenes@upm.es
+
+2025-10-22 12:25:57 [OK] Aplicada politica VoiceRoutingPolicy1 a carlos.badenes@upm.es
+
+2025-10-22 12:25:57 [OK] Aplicada politica CP-1 a carlos.badenes@upm.es
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [ERROR] Registro con UPN vacío -> vacio.
+
+2025-10-22 12:25:57 [OK] Tiempo total de ejecución: 504.6690256 segundos
+
