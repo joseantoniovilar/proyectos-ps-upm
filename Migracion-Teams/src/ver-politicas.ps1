@@ -27,7 +27,7 @@ function Get-PolicyMap {
 }
 
 #
-    $upn = 'joseantonio.vilar@upm.es'
+    $upn = ''
     $user = Get-CsOnlineUser -Filter "UserPrincipalName -like '$upn'"
     Write-host Informacion del usuario
     $user
